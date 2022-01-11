@@ -1,0 +1,10 @@
+C:\Users\sebas\source\repos\trackBar\trackBar\bin\Debug\trackBar.exe.config
+C:\Users\sebas\source\repos\trackBar\trackBar\bin\Debug\trackBar.exe
+C:\Users\sebas\source\repos\trackBar\trackBar\bin\Debug\trackBar.pdb
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.csproj.AssemblyReference.cache
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.Form1.resources
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.Properties.Resources.resources
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.csproj.GenerateResource.cache
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.csproj.CoreCompileInputs.cache
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.exe
+C:\Users\sebas\source\repos\trackBar\trackBar\obj\Debug\trackBar.pdb
